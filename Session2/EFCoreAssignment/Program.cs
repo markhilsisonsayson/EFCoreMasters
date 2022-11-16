@@ -125,7 +125,7 @@ static void DeleteProductByKey(AppDbContext dbContext)
         Id = productId
     };
 
-    dbContext.Entry(product).State = EntityState.Deleted;
+   
     dbContext.Products.Remove(product);
     dbContext.SaveChanges();
 }
