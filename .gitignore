@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Session1/EFCoreAssignment/obj
+/Session2/EFCoreAssignment/obj
+/.vs
+/Session3/EFCoreAssignment.API/obj
+/Session3/EFCoreAssignment.Data/obj
+/Session3/EFCoreAssignment.Services/obj
