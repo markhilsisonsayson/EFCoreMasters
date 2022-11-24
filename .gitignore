@@ -12,3 +12,6 @@
 /Session3/EFCoreAssignment.Data/bin/Debug/net6.0
 /Session3/EFCoreAssignment.Services/bin/Debug/net6.0
 /Session3/.vs
+/Session4/InventoryAppEFCore.API/obj
+/Session4/.vs
+/Session4/InventoryAppEFCore.DataLayer/obj
