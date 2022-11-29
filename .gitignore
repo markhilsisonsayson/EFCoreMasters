@@ -15,3 +15,5 @@
 /Session4/InventoryAppEFCore.API/obj
 /Session4/.vs
 /Session4/InventoryAppEFCore.DataLayer/obj
+/Session4/InventoryAppEFCore.API/bin/Debug/net6.0
+/Session4/InventoryAppEFCore.DataLayer/bin/Debug/net6.0
