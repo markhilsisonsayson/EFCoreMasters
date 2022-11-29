@@ -17,3 +17,6 @@
 /Session4/InventoryAppEFCore.DataLayer/obj
 /Session4/InventoryAppEFCore.API/bin/Debug/net6.0
 /Session4/InventoryAppEFCore.DataLayer/bin/Debug/net6.0
+/Session4/InventoryAppEFCore.API/obj/Debug/net6.0/InventoryAppEFCore.API.assets.cache
+/Session4/InventoryAppEFCore.API/obj/Debug/net6.0/InventoryAppEFCore.API.csproj.AssemblyReference.cache
+/Session4/InventoryAppEFCore.API/obj/Debug/net6.0/InventoryAppEFCore.API.GeneratedMSBuildEditorConfig.editorconfig
